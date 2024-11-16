@@ -27,4 +27,5 @@ I indulge in reading about the latest tech trends, and I'm an avid bachata dance
 Let's Connect 🌐:
 
 You can find me on LinkedIn here: https://www.linkedin.com/in/easha-meher/
+
 Feel free to check out my repositories below and star or fork if you find something interesting!
