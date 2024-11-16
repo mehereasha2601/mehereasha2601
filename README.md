@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehereasha2601&layout=compact)
+
 Hi there, I'm Easha! 👋
 
 I'm currently pursuing a Master's in Artificial Intelligence at Northeastern University, with a solid background in Computer Science from my undergraduate studies. With about three years of experience in software development, I've honed my skills in testing and building reliable software solutions.
